@@ -1,8 +1,30 @@
 <img src="https://komarev.com/ghpvc/?username=TetianaAleks&color=green"/>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Tetiana!
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>, I am Tetiana!
+</h1>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaAleks&theme=shadow_green&hide_border=false&layout=compact) <br/><br/>
+<div align="center">
+  <img src="home.gif" alt="welcome to my github profile" width="300"/>
+  <br/><br/>
+</div>
 
-check out my latest [projects](https://tetianaaleks.github.io/personal-portfolio/projects/)
+---
 
+### 🚀 Check out my [projects](https://tetianaaleks.github.io/personal-portfolio/projects/)  
+<img src="girl.gif" width="60"/>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaAleks&theme=shadow_green&hide_border=false&layout=compact" />
+  <br/><br/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+<p align="center"><i>Made with ❤️ by © Tetiana</i></p>
