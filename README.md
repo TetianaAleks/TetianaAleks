@@ -9,9 +9,7 @@
   <br/><br/>
 </div>
 
-### 🚀 Check out my [projects](https://tetianaaleks.github.io/personal-portfolio/projects/) ![](girl.gif)
-
-### 📊 My GitHub Stats
+### 🚀 Check out my [projects](https://tetianaaleks.github.io/personal-portfolio/projects/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaAleks&theme=shadow_green&hide_border=false&layout=compact" />
@@ -19,5 +17,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&width=435&lines=Thank+you+for+your+visiting!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![](girl.gif)
 
 <p align="right"><i>Made with ❤️ by © Tetiana</i></p>
