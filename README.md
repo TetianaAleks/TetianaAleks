@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="hello.gif" alt="welcome to my github profile" width="300"/>
+  <img src="hello.gif" alt="welcome to my github profile" width="200"/>
   <br/><br/>
 </div>
 
@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetianaAleks&theme=shadow_green&hide_border=false&layout=compact" />
   <br/><br/>
-  ![](girl.gif)
+  <img src="girl.gif" alt="welcome to my github profile"/>
 </div>
 
 <p align="right"><i>Made with ❤️ by © Tetiana</i></p>
